@@ -1,5 +1,4 @@
-# wacm-doc
-woocommerce content assistant
+# woocommerce content assistant
 
 افزونه مدیریت محتوای ویژگی محصولات ووکامرس و دکان
 
